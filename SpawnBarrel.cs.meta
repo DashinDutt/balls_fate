@@ -1,0 +1,13 @@
+fileFormatVersion: 2
+guid: a08134a1d88017d499b0c661ee281bb8
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - Barrelprefab: {fileID: 3677222530343824058, guid: 092b0dfe5c50f6e4d9edc03761a686f3,
+      type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
